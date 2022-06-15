@@ -10,7 +10,7 @@ Only simple HTML + CSS / SCSS
 ## Mockup
 ![waskita](https://user-images.githubusercontent.com/47497014/173866212-e85efd60-be6e-4f7d-ba0b-637bf4a7e15f.png)
 
-or you can look it at my [Dribbble](https://dribbble.com/shots/16284386-AMIKOM-Waskita-Login-Page-Re-Design?utm_source=Clipboard_Shot&utm_campaign=fsuropaty&utm_content=AMIKOM%20Waskita%20Login%20Page%20Re-Design&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=fsuropaty&utm_content=AMIKOM%20Waskita%20Login%20Page%20Re-Design&utm_medium=Social_Share) shot
+or you can look my [Dribbble](https://dribbble.com/shots/16284386-AMIKOM-Waskita-Login-Page-Re-Design?utm_source=Clipboard_Shot&utm_campaign=fsuropaty&utm_content=AMIKOM%20Waskita%20Login%20Page%20Re-Design&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=fsuropaty&utm_content=AMIKOM%20Waskita%20Login%20Page%20Re-Design&utm_medium=Social_Share) shot
 
 ## To-Do List
 - [x] :jigsaw: Layout
